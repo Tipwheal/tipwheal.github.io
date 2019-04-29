@@ -1,0 +1,10 @@
+html, body {
+  min-height: 100%;
+  height: 100%;
+  margin: 0; }
+
+.basic-background {
+  background: #b96f51 url("../image/brick-wall.png");
+  min-height: 100%; }
+
+/*# sourceMappingURL=main-style.css.map */

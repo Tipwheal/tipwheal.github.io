@@ -7,4 +7,16 @@ html, body {
   background: #b96f51 url("../image/brick-wall.png");
   min-height: 100%; }
 
+.basic-content-pane {
+  background: #ffffffa6;
+  display: flex;
+  width: 100%;
+  justify-content: space-around; }
+
+.basic-container {
+  display: flex;
+  height: 100%;
+  width: 100%;
+  justify-content: space-around; }
+
 /*# sourceMappingURL=main-style.css.map */
